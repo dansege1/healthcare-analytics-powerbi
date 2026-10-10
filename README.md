@@ -39,11 +39,11 @@ An executive-level, 5-page Power BI analytics platform built for a multi-state h
 
 | Page | Preview |
 | :--- | :--- |
-| **1. Executive Overview** | ![Executive Overview](docs/dashboard_overview.png) |
-| **2. Patient Analysis** | ![Patient Analysis](docs/patient_analysis.png) |
-| **3. Hospital Operations** | ![Hospital Operations](docs/hospital_operations.png) |
-| **4. Financial Performance** | ![Financial Performance](docs/financial_performance.png) |
-| **5. Patient Experience** | ![Patient Experience](docs/patient_experience.png) |
+| **1. Executive Overview** | ![Executive Overview](Executive%20Overview.png) |
+| **2. Patient Analysis** | ![Patient Analysis](Patient%20Analysis%20Dashboard.png) |
+| **3. Hospital Operations** | ![Hospital Operations](Hospital%20Operation%20Dashboard.png) |
+| **4. Financial Performance** | ![Financial Performance](Financial%20Performance%20Dashboard.png) |
+| **5. Patient Experience** | ![Patient Experience](Patient%20Experience%20Dashboard.png) |
 
 ---
 
